@@ -5,3 +5,4 @@ merge-test1
 m4
 m5
 rebase-test1
+rebase-test2
